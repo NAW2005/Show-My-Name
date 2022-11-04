@@ -1,0 +1,22 @@
+{
+  "name": "showmyname",
+  "version": "1.0.0",
+  "description": "i wana show my name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NAW2005/Show-My-Name.git"
+  },
+  "keywords": [
+    "NN"
+  ],
+  "author": "NawNaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NAW2005/Show-My-Name/issues"
+  },
+  "homepage": "https://github.com/NAW2005/Show-My-Name#readme"
+}
